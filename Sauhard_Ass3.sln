@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sauhard_Ass3", "Sauhard_Ass3\Sauhard_Ass3.csproj", "{E95FE012-1A86-4180-9747-B2B9253FFDB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sauhard_Ass3.Tests", "Sauhard_Ass3.Tests\Sauhard_Ass3.Tests.csproj", "{D1FD509A-73B0-4CD5-96E6-F1C1CEDE76AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E95FE012-1A86-4180-9747-B2B9253FFDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95FE012-1A86-4180-9747-B2B9253FFDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95FE012-1A86-4180-9747-B2B9253FFDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95FE012-1A86-4180-9747-B2B9253FFDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FD509A-73B0-4CD5-96E6-F1C1CEDE76AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FD509A-73B0-4CD5-96E6-F1C1CEDE76AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FD509A-73B0-4CD5-96E6-F1C1CEDE76AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FD509A-73B0-4CD5-96E6-F1C1CEDE76AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCEAF00E-AAA6-410A-93C2-DD5680449BBB}
+	EndGlobalSection
+EndGlobal

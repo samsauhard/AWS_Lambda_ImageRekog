@@ -1,0 +1,11 @@
+C:\Users\owner\source\repos\Sauhard_Ass3\Sauhard_Ass3\bin\Release\netcoreapp2.1\rhel.7.2-x64\Sauhard_Ass3.deps.json
+C:\Users\owner\source\repos\Sauhard_Ass3\Sauhard_Ass3\bin\Release\netcoreapp2.1\rhel.7.2-x64\Sauhard_Ass3.runtimeconfig.json
+C:\Users\owner\source\repos\Sauhard_Ass3\Sauhard_Ass3\bin\Release\netcoreapp2.1\rhel.7.2-x64\Sauhard_Ass3.runtimeconfig.dev.json
+C:\Users\owner\source\repos\Sauhard_Ass3\Sauhard_Ass3\bin\Release\netcoreapp2.1\rhel.7.2-x64\Sauhard_Ass3.dll
+C:\Users\owner\source\repos\Sauhard_Ass3\Sauhard_Ass3\bin\Release\netcoreapp2.1\rhel.7.2-x64\Sauhard_Ass3.pdb
+C:\Users\owner\source\repos\Sauhard_Ass3\Sauhard_Ass3\obj\Release\netcoreapp2.1\rhel.7.2-x64\Sauhard_Ass3.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\Sauhard_Ass3\Sauhard_Ass3\obj\Release\netcoreapp2.1\rhel.7.2-x64\Sauhard_Ass3.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\Sauhard_Ass3\Sauhard_Ass3\obj\Release\netcoreapp2.1\rhel.7.2-x64\Sauhard_Ass3.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\Sauhard_Ass3\Sauhard_Ass3\obj\Release\netcoreapp2.1\rhel.7.2-x64\Sauhard_Ass3.AssemblyInfo.cs
+C:\Users\owner\source\repos\Sauhard_Ass3\Sauhard_Ass3\obj\Release\netcoreapp2.1\rhel.7.2-x64\Sauhard_Ass3.dll
+C:\Users\owner\source\repos\Sauhard_Ass3\Sauhard_Ass3\obj\Release\netcoreapp2.1\rhel.7.2-x64\Sauhard_Ass3.pdb
